@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 .vercel
 .env*.local
+=======
+.vercel
+.env*.local
+>>>>>>> 1f5ca48 (Initial commit)
